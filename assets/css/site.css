@@ -2,7 +2,9 @@ html,
 body {
   height: 99%;
   background-color: #333;
-  background-image: url('../images/198216.jpg')
+  min-width: 320px;
+  background-image: url('../images/198216.jpg');
+  background-size: cover;
 }
 body {
   color: #fff;
