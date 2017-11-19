@@ -2,7 +2,7 @@ html,
 body {
   height: 99%;
   background-color: #333;
-  background-image: url('assets/images/198216.jpg')
+  background-image: url('../images/198216.jpg')
 }
 body {
   color: #fff;
